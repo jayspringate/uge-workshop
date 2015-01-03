@@ -1,0 +1,13 @@
+    1  subl
+    2  history
+    3  subl
+    4  history > unix-notes.txt
+    5  subl
+    6  subl
+    7  /uge_workshop
+    8  pwd
+    9  cd /uge_workshop
+   10  ls
+   11  cd /uge-workshop
+   12  cd uge-workshop
+   13  history > unix-notes.txt
