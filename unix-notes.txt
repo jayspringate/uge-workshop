@@ -1,13 +1,19 @@
+    must save changes in unix-notes to be seen by git
+
+    hidden files and folders begin with a dot (.)
     1  subl
+    opens sublime text
     2  history
+  man opens manual
     3  subl
-    4  history > unix-notes.txt
+    4  history > unix-notes.txt 
+wrong directory
     5  subl
     6  subl
-    7  /uge_workshop
     8  pwd
-    9  cd /uge_workshop
+    current directory
+
    10  ls
-   11  cd /uge-workshop
    12  cd uge-workshop
    13  history > unix-notes.txt
+   sends output of a command to a file
