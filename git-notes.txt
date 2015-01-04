@@ -1,0 +1,74 @@
+Most important: git commit -m "message"
+git diff --staged: shows changes    
+git remote add origin https://github.com/jayspringate/uge-workshop.git
+git push -u origin master
+1  subl
+    2  history
+    3  subl
+    4  history > unix-notes.txt
+    5  subl
+    6  subl
+    7  /uge_workshop
+    8  pwd
+    9  cd /uge_workshop
+   10  ls
+   11  cd /uge-workshop
+   12  cd uge-workshop
+   13  history > unix-notes.txt
+   14  subl
+   15  which git
+   16  git --version
+   17  cd
+   18  pwd
+   19  git config --global user.name "jayspringate"
+   20  git config --global user.email "jay.springate@gmail.com"
+   21  git config --global user.name "Jay Springate"
+   22  cd uge-workshop
+   23  git config --global user.name "Jay Springate"
+   24  git config --global user.email "jay.springate@gmail.com"
+   25  git-config -l | sort | list
+   26  git config -l | sort | list
+   27  git config -l | sort | less
+   28  git-config man
+   29  man git-config
+   30  ls
+   31  git init
+   32  git status
+   33  git add unix-notes.txt
+   34  git status
+   35  git-commit -m "adding unix notes, 1st draft"
+   36  got commit -m "adding unix notes, 1st draft"
+   37  git commit -m "adding unix notes, 1st draft"
+   38  git status
+   39  git log
+   40  git log | less
+   41  ls -l
+   42  ls -al
+   43  cat unix-notes.txt
+   44  subl unix-notes.txt
+   45  git status
+   46  git status
+   47  subl unix-notes.txt
+   48  git status
+   49  subl unix-notes.txt
+   50  subl unix-notes.txt
+   51  git status
+   52  git add unix-notes.txt
+   53  git status
+   54  git diff --staged
+   55  git diff
+   56  git diff --staged
+   57  git commit -m "adding notes about hidden files"
+   58  git log
+   59  git help log
+   60  man git-log
+   61  git branch git-notes
+   62  git branch
+   63  git checkout git-notes
+   64  git branch
+   65  git status
+   66  touch git-notes.txt
+   67  ls -l
+   68  subl git-notes.txt
+   69  history >> git_notes.txt
+   70  history >> git-notes.txt
