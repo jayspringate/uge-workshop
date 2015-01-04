@@ -1,5 +1,8 @@
 Most important: git commit -m "message"
-git diff --staged: shows changes    1  subl
+git diff --staged: shows changes    
+git remote add origin https://github.com/jayspringate/uge-workshop.git
+git push -u origin master
+1  subl
     2  history
     3  subl
     4  history > unix-notes.txt
